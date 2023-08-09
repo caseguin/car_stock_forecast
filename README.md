@@ -1,4 +1,4 @@
-# Car prediction with ML
+# Car prediction with Machine Learning
 
 ***
 ### Objectif
@@ -7,7 +7,7 @@ En utilisant les données de la SAAQ, tenter de prédire :
   2. La proportion voiture/camion léger sur les routes du Québec en 2030.
 
 ***
-##@ Données
+### Données
 - SAAQ (2011-2022)
 - Population active (SC?)
 - PIB (SC?)
