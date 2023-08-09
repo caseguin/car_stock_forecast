@@ -20,4 +20,5 @@ En utilisant les données de la SAAQ, tenter de prédire :
 4. Building model
 5. Analyse des résultats
 
+***
 
