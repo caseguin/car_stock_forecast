@@ -8,7 +8,7 @@ En utilisant les données de la SAAQ, tenter de prédire :
 
 ***
 ### Données
-- SAAQ (2011-2022)
+- SAAQ (2011-2022) :                            https://www.donneesquebec.ca/recherche/dataset/vehicules-en-circulation
 - Population active :                           https://www.donneesquebec.ca/recherche/dataset/estimations-et-projections-de-population-comparables
 - PIB :                                         https://www150.statcan.gc.ca/t1/tbl1/fr/cv.action?pid=3610040201
 - Dépenses des ménages :                        https://www150.statcan.gc.ca/t1/tbl1/fr/cv.action?pid=1110022201
@@ -17,6 +17,7 @@ En utilisant les données de la SAAQ, tenter de prédire :
 - Caractéristique de la population active :     https://www150.statcan.gc.ca/t1/tbl1/fr/tv.action?pid=1410002301
 - Taux d'intérêt :
 
+- Évolution du prix des véhicules :             https://vms.taps.anl.gov/research-highlights/u-s-doe-vto-hfto-r-d-benefits/
 
 ***
 ### Étapes
